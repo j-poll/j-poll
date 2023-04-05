@@ -12,8 +12,6 @@
   <br> <br>
 </p>
 
-<hr>
-
 <h2 align="center"> 🔭 Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python3%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
