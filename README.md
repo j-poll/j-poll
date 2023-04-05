@@ -12,5 +12,15 @@
   <br> <br>
 </p>
 
+<hr>
+
+<h2 align="center"> 🔭 Tools</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python3%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=yellow" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SPSS%20-%2300D9FF.svg?&style=for-the-badge&logo=SPSS&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQL%20-%23D14836.svg?&style=for-the-badge&logo=SQL&logoColor=white" />&nbsp;&nbsp;
+
+</p>
+<p align="center">R, SAS, MS PowerBI, GitHub, MS Office </p>
 
 
