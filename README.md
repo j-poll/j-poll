@@ -17,6 +17,6 @@
   <img src="https://img.shields.io/badge/SQL%20-%23D14836.svg?&style=for-the-badge&logo=SQL&logoColor=white" />&nbsp;&nbsp;
 
 </p>
-<p align="center">R, SAS, MS PowerBI, GitHub, MS Office </p>
+<p align="center">R, SAS, MS PowerBI, MS Office </p>
 
 
